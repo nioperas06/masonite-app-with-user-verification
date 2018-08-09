@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*1b01pRhGZlxVMJwjXdb2tQ.png" width="500px"> 
+</p>
+
 # Build Email Verification from Scratch With Masonite Framework and JSON Web Tokens
 This application is a demo on how you can build email verification from scratch for your Masonite application.
 
